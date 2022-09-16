@@ -30,7 +30,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unfiltered-on-gh&label=Profile%20views&color=0e75b6&style=flat" alt="unfiltered-on-gh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/tafamabi?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tafamabi" target="blank"><img src="https://img.shields.io/twitter/follow/tafamabi?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
   
 </a>
 
