@@ -1,100 +1,110 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tafadzwa Mabika</h1>
-<h3 align="center">A passionate Software developer 👨‍💻 from Zimbabwe 🇿🇼.</h3>
+<div align="center">
+
+```
+████████╗ █████╗ ███████╗ █████╗ ██████╗ ███████╗██╗    ██╗ █████╗ 
+╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔══██╗╔════██║██║    ██║██╔══██╗
+   ██║   ███████║█████╗  ███████║██║  ██║    ██╔╝██║ █╗ ██║███████║
+   ██║   ██╔══██║██╔══╝  ██╔══██║██║  ██║   ██╔╝ ██║███╗██║██╔══██║
+   ██║   ██║  ██║██║     ██║  ██║██████╔╝  ██╔╝  ╚███╔███╔╝██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═════╝ ╚══════╝╚══╝╚══╝ ╚═╝  ╚═╝
+```
+
+### `< Software Developer />` &nbsp;·&nbsp; 🇿🇼 Harare, Zimbabwe &nbsp;·&nbsp; JavaScript Obsessed
+
+[![Website](https://img.shields.io/badge/Website-tafadzwa.co.zw-%23000000?style=flat-square&logo=google-chrome&logoColor=white)](https://tafadzwa.co.zw)
+[![Twitter](https://img.shields.io/badge/Twitter-@MabikaDevelops-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MabikaDevelops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tafadzwa--mabika-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tafadzwa-mabika)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Unfiltered263-%2308090A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/Unfiltered263)
+[![Gmail](https://img.shields.io/badge/Email-mabikatafadzwa01@gmail.com-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mabikatafadzwa01@gmail.com)
+
+</div>
+
+---
+
+## `whoami`
+
+```javascript
+const tafadzwa = {
+  role:        "Software Developer",
+  location:    "Harare, Zimbabwe 🇿🇼",
+  passions:    ["JavaScript", "Web Performance", "PWA Development"],
+  currentFocus: "Building Progressive Web Apps & scalable web systems",
+  funFact:     "Productivity nerd with a thing for clean code ⚡",
+  building:    "A superb software engineering company → thecodebench.com",
+};
+```
+
+---
+
+## `stack --list`
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Data & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-%23FF61F6.svg?style=flat-square&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+---
+
+## `git log --stat`
 
 <div align="center">
 
-<a href="https://github.com/Unfiltered-On-GH" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/MabikaDevelops" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/Unfiltered263" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/tafadzwa-mabika" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/tafadzwa.mabika.355" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/t.mabiker" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>
-<h1> </h1>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=unfiltered-on-gh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfiltered-on-gh&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611d6f0294ba1d7c2e4cb42ac7d59a3fcacca75d2bb&rid=giphy.gif&ct=g">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unfiltered-on-gh&label=Profile%20views&color=0e75b6&style=flat" alt="unfiltered-on-gh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/MabikaDevelops" target="blank"><img src="https://img.shields.io/twitter/follow/MabikaDevelops?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-  
-</a>
-
-- 👨‍💻 I love working JavaScript Libraries and Frameworks.
-  
-
-- 🌱 I’m currently advancing my skills in PWA development
-  
-
-- ❓ Ask me about anything related to 🇯🇸 and assosiated technologies.
-  
-
-- ⚡ Fun fact: I am a Productivity Nerd 🤓
-
-
-
-## My Skill Set  
-#### My Favorite Programming Languages, Frameworks & Tools
-### Frontend  
-<div>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
-
-### Backend  
-<div>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-</div>
-
-<br/>
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafadzwa-mabika/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t.mabiker/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MabikaDevelops)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabikatafadzwa01@gmail.com)
-  
 </div>
 
 <div align="center">
-<h3>Support:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unfiltered-on-gh&" alt="unfiltered-on-gh" /></p>
-<h1> </h1>
-<h3>Working On building a Superb Software Engineering Company</h3>
-<p><a href="https://thecodebench.com" target="_blank"><img  alt="GIF" src="https://user-images.githubusercontent.com/81668136/190518481-75f0cf9a-4eda-402f-bf41-b0e6348b6318.png"></a></p>
-<p><a href="https://www.buymeacoffee.com/tafadzwamabika"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tafadzwamabika" /></a></p><br><br>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=unfiltered-on-gh&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## `./current --status`
+
+```
+▶  Learning   →  Advanced PWA development, service workers & offline-first architecture
+▶  Building   →  thecodebench.com — a software engineering company from Zimbabwe
+▶  Open to    →  Collaboration on JS projects, open source contributions
+▶  Ask me     →  Anything JavaScript — frameworks, tooling, architecture, all of it
+```
+
+---
+
+<div align="center">
+
+**If my work has helped you, a coffee keeps the commits flowing ☕**
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tafadzwamabika)
+
+![Profile Views](https://komarev.com/ghpvc/?username=unfiltered-on-gh&color=0e75b6&style=flat-square&label=Profile+Views)
+
 </div>
