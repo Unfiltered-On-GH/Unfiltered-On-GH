@@ -31,6 +31,7 @@ const tafadzwa = {
   currentFocus: "Building Progressive Web Apps & scalable web systems",
   funFact:     "Productivity nerd with a thing for clean code ⚡",
   building:    "A superb software engineering company → thecodebench.com",
+  created:     "AdventBuddy — an AI chatbot on WhatsApp (+263773210210) 🤖",
 };
 ```
 
@@ -93,6 +94,7 @@ const tafadzwa = {
 ```
 ▶  Learning   →  Advanced PWA development, service workers & offline-first architecture
 ▶  Building   →  thecodebench.com — a software engineering company from Zimbabwe
+▶  Created    →  AdventBuddy — WhatsApp AI chatbot · chat at wa.me/263773210210
 ▶  Open to    →  Collaboration on JS projects, open source contributions
 ▶  Ask me     →  Anything JavaScript — frameworks, tooling, architecture, all of it
 ```
