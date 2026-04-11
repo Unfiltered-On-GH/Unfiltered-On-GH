@@ -94,7 +94,7 @@ const tafadzwa = {
 ```
 ▶  Learning   →  Advanced PWA development, service workers & offline-first architecture
 ▶  Building   →  thecodebench.com — a software engineering company from Zimbabwe
-▶  Created    →  AdventBuddy — WhatsApp AI chatbot · chat at wa.me/263773210210
+▶  Created    →  AdventBuddy Chatbot — WhatsApp AI chatbot · chat at wa.me/263773210210
 ▶  Open to    →  Collaboration on JS projects, open source contributions
 ▶  Ask me     →  Anything JavaScript — frameworks, tooling, architecture, all of it
 ```
